@@ -1,6 +1,6 @@
 # baal
 
-baal is designed to bring joy _(and terror)_ into the lives of normies. And with its tiny size, you can unleash chaos faster than lulzsec
+baal is designed to bring  _(and terror)_ into the lives of normies. And with its tiny size, you can unleash chaos faster than lulzsec
 
 ## Features
 
