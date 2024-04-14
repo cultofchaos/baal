@@ -1,11 +1,11 @@
 # baal
 
-baal is designed to bring  _(and terror)_ into the lives of normies. And with its tiny size, you can unleash chaos faster than lulzsec
+baal is designed to bring _terror_ into the lives of normies. And with its tiny size, you can unleash chaos faster than lulzsec
 
 ## Features
 
-    Encrypts files using AES256-GCM with random keys per file
-    Displays a threatening note demanding payment in Monero
+    Encrypts files using AES256-GCM with random keys 
+    Displays a note demanding payment in XMR 
     Strikes like a rootkit
 
   ## System Requirements
